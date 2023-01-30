@@ -1,0 +1,56 @@
+#cabecalho {
+    width: 1000px;
+    height: 500px;
+    padding: 20px;
+    background-color: bisque;
+    display: inline-block;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+#titulo {
+    color: brown;
+    font-size: 36px;
+
+}
+
+#lista {
+    list-style:none;
+
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+body {
+    background-color: bisque;
+    
+}
+#login{
+    color: #5294F9;
+
+}
+body {
+font-family: Arial, Helvetica, sans-serif;
+}
+#login:hover{
+    text-decoration:underline;
+    color: rgb(159, 9, 9);
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#cabecalho{
+    display:flex
+    
+}
+
